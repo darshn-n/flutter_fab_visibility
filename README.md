@@ -4,7 +4,7 @@
 
 A new Flutter package that hides the Floating action button when Up Scrolled, and visible when Down Scrolled.
 
-### Screenshots
+### Screenshot
 
 <img src="https://github.com/darshn-n/flutter_fab_visibility/blob/main/ss1.gif?raw=true" height="300em" />
 
