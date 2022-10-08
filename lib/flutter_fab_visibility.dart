@@ -5,9 +5,8 @@ library flutter_fab_visibility;
 import 'package:flutter/material.dart';
 
 class VisibleFAB extends StatefulWidget {
-  const VisibleFAB({super.key, required this.onPressed, this.child});
+  const VisibleFAB({super.key, required this.onPressed,});
   final VoidCallback onPressed;
-  final child;
 
   @override
   State<VisibleFAB> createState() => VisibleFABState();
@@ -27,7 +26,6 @@ class VisibleFABState extends State<VisibleFAB> {
         opacity: _showFab ? 1 : 0,
         child: FloatingActionButton(
           onPressed: widget.onPressed,
-          child: widget.child,
         ),
       ),
     );

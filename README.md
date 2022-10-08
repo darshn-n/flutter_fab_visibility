@@ -1,25 +1,22 @@
-
 # Flutter FAB Visibility
+
+[![Pub](https://img.shields.io/pub/v/flutter_fab_visibility.svg)](https://pub.dartlang.org/packages/flutter_fab_visibility)
 
 A new Flutter package that hides the Floating action button when Up Scrolled, and visible when Down Scrolled.
 
-## Features
-
-[*] Compatible on Android and iOS.
-
-### Show some :heart: and star the repo to support the project
-
 ### Screenshots
 
-<img src="ss1.gif" height="300em" />
+<img src="https://github.com/darshn-n/flutter_fab_visibility/blob/main/ss1.gif?raw=true" height="300em" />
 
-## Usage
+## Getting Started
 
 - To add the following dependency to your [pubspec.yaml](https://github.com/darshn-n/flutter_fab_visibility)
 
 ```yaml
-  flutter_fab_visibility: Latest Version
+flutter_fab_visibility: 0.0.1
 ```
+
+## Usage
 
 ```dart
        VisibleFAB(
@@ -31,6 +28,12 @@ A new Flutter package that hides the Floating action button when Up Scrolled, an
             ),
        )
 ```
+
+## Features
+
+[*] Compatible on Android and iOS.
+
+### Show some :heart: and star the repo to support the project
 
 ### Example App
 
@@ -57,7 +60,7 @@ A new Flutter package that hides the Floating action button when Up Scrolled, an
     See the License for the specific language governing permissions and
     limitations under the License.
 
-## Getting started
+## Docs
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.dev/).
