@@ -34,7 +34,7 @@ A new Flutter package that hides the Floating action button when Up Scrolled, an
 
 ### Example App
 
-[Example](https://github.com/darshn-n/flutter_fab_visibility/blob/master/example/example_app.dart)
+[My Example](https://github.com/darshn-n/flutter_fab_visibility/blob/master/example/example_app.dart)
 
 ### Created & Maintained By
 
