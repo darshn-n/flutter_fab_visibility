@@ -5,7 +5,7 @@ A new Flutter package that hides the Floating action button when Up Scrolled, an
 
 ## Features
 
-[*] Compatible on Android and iOS.
+[*] Compatible on Android and iOS and web.
 
 ### Show some :heart: and star the repo to support the project
 
